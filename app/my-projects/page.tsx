@@ -32,6 +32,14 @@ const projects = [
     githubLink: "https://github.com/canutoilberto/jubileu-pizza",
   },
   {
+    title: "O que Deseja?",
+    description:
+      "Exemplo de PWA que se integra perfeitamente para serviços de pedidos.",
+    image: "/pwa.jpg",
+    liveLink: "https://order-app-eta-ten.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/order-app",
+  },
+  {
     title: "Lojinha",
     description:
       "Um modelo de e-commerce que serve perfeitamente para o seu negócio dominar a internet.",
