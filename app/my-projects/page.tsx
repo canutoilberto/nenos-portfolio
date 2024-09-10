@@ -35,7 +35,7 @@ const projects = [
     title: "O que Deseja?",
     description:
       "Exemplo de PWA que se integra perfeitamente para serviços de pedidos.",
-    image: "/pwa.jpg",
+    image: "/pwa.png",
     liveLink: "https://order-app-eta-ten.vercel.app/",
     githubLink: "https://github.com/canutoilberto/order-app",
   },
