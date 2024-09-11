@@ -18,7 +18,7 @@ const projects = [
   {
     title: "LuxeCars",
     description:
-      "Alugue os carros mais exclusivos e viva momentos inesquecíveis",
+      "Alugue os carros mais exclusivos e viva momentos inesquecíveis a bordo de máquinas surreais",
     image: "/cars.png",
     liveLink: "https://luxecars.vercel.app/",
     githubLink: "https://github.com/canutoilberto/luxecars",
