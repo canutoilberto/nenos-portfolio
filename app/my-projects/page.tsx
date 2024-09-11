@@ -16,6 +16,14 @@ import {
 
 const projects = [
   {
+    title: "TravelSite",
+    description:
+      "Um site de viagens completo, feito com o que de mais moderno na tecnoligia",
+    image: "/travel.png",
+    liveLink: "https://travel-site-sable.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/travel-site",
+  },
+  {
     title: "MockBlogg",
     description:
       "Um modelo de e-commerce que serve perfeitamente para o seu negócio dominar a internet.",
