@@ -16,20 +16,20 @@ import {
 
 const projects = [
   {
+    title: "LuxeCars",
+    description:
+      "Alugue os carros mais exclusivos e viva momentos inesquecíveis",
+    image: "/cars.png",
+    liveLink: "https://luxecars.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/luxecars",
+  },
+  {
     title: "Lojinha",
     description:
       "Um modelo de e-commerce que serve perfeitamente para o seu negócio dominar a internet.",
     image: "/loja.jpg",
     liveLink: "https://lojinha-blue.vercel.app/",
     githubLink: "https://github.com/canutoilberto/lojinha-app",
-  },
-  {
-    title: "Estoque+",
-    description:
-      "Um aplicativo de gerenciamento de estoque para empresas de pequeno, médio e grande porte. Aplicação de exemplo.",
-    image: "/estoque.png",
-    liveLink: "https://controle-estoque-plum.vercel.app/",
-    githubLink: "https://github.com/canutoilberto/controle_estoque",
   },
 ];
 
