@@ -16,6 +16,14 @@ import {
 
 const projects = [
   {
+    title: "LuxeCars",
+    description:
+      "Alugue os carros mais exclusivos e viva momentos inesquecíveis",
+    image: "/cars.png",
+    liveLink: "https://luxecars.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/luxecars",
+  },
+  {
     title: "TravelSite",
     description:
       "Um site de viagens completo, feito com o que de mais moderno na tecnoligia",
