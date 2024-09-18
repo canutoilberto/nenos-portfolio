@@ -26,7 +26,7 @@ const projects = [
   {
     title: "TravelSite",
     description:
-      "Um site de viagens completo, feito com o que de mais moderno na tecnoligia",
+      "Um site de viagens completo, feito com o que há de mais moderno na tecnoligia",
     image: "/travel.png",
     liveLink: "https://travel-site-sable.vercel.app/",
     githubLink: "https://github.com/canutoilberto/travel-site",
