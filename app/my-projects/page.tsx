@@ -16,6 +16,14 @@ import {
 
 const projects = [
   {
+    title: "Ink Steellers",
+    description:
+      "Modelo de site para um estúdio de tatuagens, com animações profissionais",
+    image: "/ink.png",
+    liveLink: "https://ink-steellers.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/ink",
+  },
+  {
     title: "LuxeCars",
     description:
       "Alugue os carros mais exclusivos e viva momentos inesquecíveis a bordo de máquinas surreais",
