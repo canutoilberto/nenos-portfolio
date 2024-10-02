@@ -16,20 +16,20 @@ import {
 
 const projects = [
   {
-    title: "LuxeCars",
+    title: "E-Sports Central",
     description:
-      "Alugue os carros mais exclusivos e viva momentos inesquecíveis a bordo de máquinas surreais.",
-    image: "/cars.png",
-    liveLink: "https://luxecars.vercel.app/",
-    githubLink: "https://github.com/canutoilberto/luxecars",
+      "Blog focado nas notícias mais quentes do mundo dos E-Sports e muito mais.",
+    image: "/esports.png",
+    liveLink: "https://esports-agency.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/esports-agency",
   },
   {
-    title: "Lojinha",
+    title: "Ink Steellers",
     description:
-      "Um modelo de e-commerce que serve perfeitamente para o seu negócio dominar a internet.",
-    image: "/loja.jpg",
-    liveLink: "https://lojinha-blue.vercel.app/",
-    githubLink: "https://github.com/canutoilberto/lojinha-app",
+      "Modelo de site para um estúdio de tatuagens, com animações profissionais.",
+    image: "/ink.png",
+    liveLink: "https://ink-steellers.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/ink",
   },
 ];
 
@@ -102,9 +102,9 @@ export default function Projects() {
           transition={{ duration: 0.5, delay: 0.2 }}
         >
           <div className="flex items-center justify-center mt-8">
-            <Button size="lg">
-              <Link href="/my-projects">Meus Projetos</Link>
-            </Button>
+            <Link href="/my-projects">
+              <Button size="lg">Meus Projetos</Button>
+            </Link>
           </div>
         </motion.div>
       </div>
