@@ -16,9 +16,17 @@ import {
 
 const projects = [
   {
+    title: "E-Sports Central",
+    description:
+      "Blog focado nas notícias mais quentes do mundo dos E-Sports e muito mais.",
+    image: "/esports.png",
+    liveLink: "https://esports-agency.vercel.app/",
+    githubLink: "https://github.com/canutoilberto/esports-agency",
+  },
+  {
     title: "Ink Steellers",
     description:
-      "Modelo de site para um estúdio de tatuagens, com animações profissionais",
+      "Modelo de site para um estúdio de tatuagens, com animações profissionais.",
     image: "/ink.png",
     liveLink: "https://ink-steellers.vercel.app/",
     githubLink: "https://github.com/canutoilberto/ink",
@@ -26,7 +34,7 @@ const projects = [
   {
     title: "LuxeCars",
     description:
-      "Alugue os carros mais exclusivos e viva momentos inesquecíveis a bordo de máquinas surreais",
+      "Alugue os carros mais exclusivos e viva momentos inesquecíveis a bordo de máquinas surreais.",
     image: "/cars.png",
     liveLink: "https://luxecars.vercel.app/",
     githubLink: "https://github.com/canutoilberto/luxecars",
@@ -34,7 +42,7 @@ const projects = [
   {
     title: "TravelSite",
     description:
-      "Um site de viagens completo, feito com o que há de mais moderno na tecnoligia",
+      "Um site de viagens completo, feito com o que há de mais moderno na tecnoligia.",
     image: "/travel.png",
     liveLink: "https://travel-site-sable.vercel.app/",
     githubLink: "https://github.com/canutoilberto/travel-site",
