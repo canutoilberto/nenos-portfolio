@@ -45,7 +45,7 @@ export default function HeaderSection() {
           >
             <div className="relative w-[280px] h-[280px] sm:w-[350px] sm:h-[350px] rounded-full overflow-hidden border-4 border-primary">
               <Image
-                src="/me.jpg"
+                src="/neno.png"
                 alt="Foto do Desenvolvedor"
                 layout="fill"
                 objectFit="cover"
